@@ -6,7 +6,7 @@
 - 📫 **How to reach me:** 
 - **Email:** [aritwasaha04@gmail.com]  
 - **LinkedIn:** [www.linkedin.com/in/aritwa-saha]  
-- **GitHub:** [your GitHub profile here]  
+- **GitHub:** [https://github.com/aritwa]  
 - 😄 **Pronouns:** He/Him  
 - ⚡ **Fun fact:** I enjoy turning complex challenges into simple, impactful solutions and can’t resist a good hackathon!
 
